@@ -22,12 +22,12 @@
 ## 💻 Tecnologias que uso no dia a dia
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![Progress 4GL](https://img.shields.io/badge/Progress%204GL-000000?style=flat&logo=https://upload.wikimedia.org/wikipedia/en/5/58/OpenEdge_logo.png&logoWidth=20&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-865A08?style=flat&logo=microsoft-office&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-865A08?style=flat&logo=vba&logoColor=white)
 
 
 ---
