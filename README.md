@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Maikon Roberto Campanharo Lopes
+# 👋 Olá! Eu sou o Maikon Lopes
 
 🎯 **Analista de Sistemas** com experiência sólida em **Business Intelligence**, **automação de relatórios**, **desenvolvimento web** e **sistemas ERP**.
 
